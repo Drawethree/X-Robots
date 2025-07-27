@@ -32,7 +32,6 @@ Download the latest release from the resource page.
 Place the plugin .jar into your server’s plugins folder.
 Start or reload your server to generate configuration files.
 Configure the guis.yml,config.yml, robots.yml to customize robot types and currency settings.
-If you are a developer looking for API, please check https://github.com/Drawethree/X-PrivateMinesAPI/
 
 ### Support
 * ![Discord](https://img.shields.io/discord/1387881708581290257?label=Discord&logo=Discord)
